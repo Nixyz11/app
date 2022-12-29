@@ -16,11 +16,6 @@ import icon from '../images/cryptocurrency.png'
             label: 'Cryptocurrencies',
         },
         {
-            key: 'exchanges',
-            icon: <MoneyCollectOutlined/>,
-            label: 'exchanges',
-        },
-        {
             key: 'news',
             icon: <BulbOutlined/>,
             label: 'News',
